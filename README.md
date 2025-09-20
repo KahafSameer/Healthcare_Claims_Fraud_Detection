@@ -213,7 +213,7 @@ If you found this project helpful or interesting, please consider:
 
 ### Contact
 
-- 📧 **Email**: [atif738738@gmail.com](mailto:sameerkahaf920@gmail.com)
+- 📧 **Email**: [KahafSameer@gmail.com](mailto:sameerkahaf920@gmail.com)
 - 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/kahaf-sameer/)
 
 ### Acknowledgments
@@ -231,3 +231,4 @@ If you found this project helpful or interesting, please consider:
 
 
 </div>
+
