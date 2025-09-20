@@ -34,31 +34,6 @@ The application processes healthcare provider data, beneficiary information, and
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### Main Dashboard
-<img src="UIImages/screenshots/output.png" alt="Main Dashboard" width="800"/>
-
-### Fraud Detection Interface
-<img src="UIImages/screenshots/Fraud_vs_Lagitimate_clam.png" alt="Fraud Detection" width="400"/>
-<img src="UIImages/screenshots/BarGraph.png" alt="Analysis Graphs" width="400"/>
-
-### Data Analysis Views
-<img src="UIImages/screenshots/Analysis_raw_dataset.png" alt="Raw Dataset Analysis" width="400"/>
-<img src="UIImages/screenshots/Desriptive_Statistics.png" alt="Descriptive Statistics" width="400"/>
-
-### Correlation Analysis
-<img src="UIImages/screenshots/Correlation_matix_of_key_features.png" alt="Correlation Matrix" width="400"/>
-<img src="UIImages/screenshots/Detailed_analysis_output_graph.png" alt="Detailed Analysis" width="400"/>
-
-### About Page
-<img src="UIImages/screenshots/About_me_page.png" alt="About Page" width="400"/>
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -238,8 +213,8 @@ If you found this project helpful or interesting, please consider:
 
 ### Contact
 
-- 📧 **Email**: [atif738738@gmail.com](mailto:atif738738@gmail.com)
-- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/atif-raja-570853275)
+- 📧 **Email**: [atif738738@gmail.com](mailto:sameerkahaf920@gmail.com)
+- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/kahaf-sameer/)
 
 ### Acknowledgments
 
@@ -253,5 +228,6 @@ If you found this project helpful or interesting, please consider:
 **Made with ❤️ for the Healthcare Community**
 
 [⬆ Back to Top](#-healthcare-claims-fraud-detection)
+
 
 </div>
