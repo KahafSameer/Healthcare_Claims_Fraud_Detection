@@ -1,0 +1,17 @@
+Provider's Code: 54321
+Insurance Claim Amount Reimbursed: 100
+Inpatient Annual Reimbursement Amount: 0
+Inpatient Annual Deductible Amount: 0
+Total Reimbursement: 100
+Renal Disease Indicator: No
+Alzheimer's Disease: No
+Heart Failure: No
+Kidney Disease: No
+Cancer: No
+Chronic Obstructive Pulmonary Disease (COPD): No
+Depression: No
+Diabetes: No
+Ischemic Heart Disease: No
+Osteoporosis: No
+Rheumatoid Arthritis: No
+Stroke: No

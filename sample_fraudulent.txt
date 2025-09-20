@@ -1,0 +1,17 @@
+Provider's Code: 12345
+Insurance Claim Amount Reimbursed: 50000
+Inpatient Annual Reimbursement Amount: 100000
+Inpatient Annual Deductible Amount: 1000
+Total Reimbursement: 150000
+Renal Disease Indicator: Yes
+Alzheimer's Disease: Yes
+Heart Failure: Yes
+Kidney Disease: Yes
+Cancer: No
+Chronic Obstructive Pulmonary Disease (COPD): No
+Depression: No
+Diabetes: No
+Ischemic Heart Disease: No
+Osteoporosis: No
+Rheumatoid Arthritis: No
+Stroke: No
